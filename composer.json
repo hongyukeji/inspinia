@@ -1,0 +1,13 @@
+{
+    "name": "hongyukeji/inspinia",
+    "description": "Html5 inspinia template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shadow",
+            "email": "admin@hongyuvip.com"
+        }
+    ],
+    "require": {},
+    "autoload": {}
+}
